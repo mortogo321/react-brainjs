@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "4.3.1",
-    "brain.js": "1.6.1",
-    "node-sass": "4.12.0",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.0.1",
-    "reactstrap": "8.0.1"
+    "bootstrap": "5.3.8",
+    "brain.js": "2.0.0-beta.24",
+    "sass": "^1.97.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-scripts": "5.0.1",
+    "reactstrap": "9.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
